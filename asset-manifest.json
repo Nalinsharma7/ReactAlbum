@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactAlbum/static/css/main.5c3b9674.css",
+    "main.js": "/ReactAlbum/static/js/main.6ceb552a.js",
+    "index.html": "/ReactAlbum/index.html",
+    "main.5c3b9674.css.map": "/ReactAlbum/static/css/main.5c3b9674.css.map",
+    "main.6ceb552a.js.map": "/ReactAlbum/static/js/main.6ceb552a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3b9674.css",
+    "static/js/main.6ceb552a.js"
+  ]
+}
